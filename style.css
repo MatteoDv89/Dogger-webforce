@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&family=Poppins:wght@200;300;400&display=swap');
 
+*{
+    background-color: #ffffff;
+}
 body{
     font-family: "Open Sans";
     margin-right: 10%;
     margin-left: 10%;
+    
 }
 
 nav{
@@ -42,7 +46,7 @@ nav ul li:hover{
 
 nav .title{
     font-size: 2em;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 nav .title span{
@@ -169,6 +173,7 @@ nav .title span{
 
 footer{
 
+    width: 100vw;
     margin-top: 60px;
     background-color: #4a4a4b;
     color: #ffffff;
@@ -178,4 +183,7 @@ footer{
     align-items: center;
     justify-content: center;
     font-size: 12px;
+    position:relative;
+    left:-152px;
+    bottom:-10px;
 }
