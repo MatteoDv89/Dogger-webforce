@@ -61,12 +61,13 @@ nav .title span{
 }
 
 .firstdiv .textBox{
-    flex:60%
+    flex:60%;
+    text-align: start;
 }
 
 .firstdiv .textBox h2 {
 
-    text-align: center;
+
     font-weight: 400;
     font-size: 55px;
     padding:0;
