@@ -1,0 +1,8 @@
+Blanc : #ffffff;
+Noir : #000000;
+Gris clair : #f8f9fa;
+Gris : #999999;
+Gris foncé : #4a4a4b;
+Vert : #a2c0be;
+Vert foncé : #567876;
+Orange : #ff9900;
